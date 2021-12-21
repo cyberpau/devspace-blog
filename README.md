@@ -30,3 +30,5 @@ npm run dev
 ### Caching
 
 Husky is used to run a cache script on git commit. Caching is used for the search api route/serverless function
+
+2021
